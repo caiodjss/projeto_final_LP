@@ -30,10 +30,10 @@ A necessidade de uma gestão eficiente de agendamentos médicos é impulsionada 
 
 ## Implementação Futura
 
--   Integração com sistemas de prontuário eletrônico dos pacientes (PEP) para acesso ao histórico médico
+-   Histórico de atendimento
 -   ID de paciente para identificação única
--   Lista de preparo de exames para orientação do paciente antes da realização dos procedimentos
--   Opções para resultados de exames (e.g., online, impresso)
--   Orçamentos para procedimentos
--   Anexar documentos do paciente (e.g., imagens de exames anteriores)
--   Opção para enviar orçamento, preparo ou ambos por e-mail no final de cada agendamento ou orçamento
+-   Lista de preparo de exames
+-   Opções para envio de resultados de exames
+-   Envio de orçamento e preparo por e-mail
+-   Anexar documentos do paciente (pedido médico, carteirinha, etc)
+-   Implementação de BD
