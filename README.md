@@ -37,3 +37,4 @@ A necessidade de uma gestão eficiente de agendamentos médicos é impulsionada 
 -   Envio de orçamento e preparo por e-mail
 -   Anexar documentos do paciente (pedido médico, carteirinha, etc)
 -   Implementação de BD
+-   
